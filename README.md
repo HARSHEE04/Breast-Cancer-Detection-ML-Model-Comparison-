@@ -64,6 +64,20 @@ A two-sample **t-test assuming equal variances** was conducted using a significa
 
 ---
 
+### 📈 Visualization of the t-Test Results
+
+![T-Distribution with Test Statistic and Rejection Regions](t-stat distribution.png)
+
+
+The chart above illustrates the **t-distribution** with the **test statistic** and **rejection regions** for a two-tailed t-test.
+
+- The **purple vertical lines** represent the **t-test statistic**, which is approximately **t = 4.85**.
+- The **red vertical lines** indicate the **critical values** for a two-tailed test at a significance level of **α = 0.05**, which are **±2.001**.
+- The shaded red areas beyond the critical values correspond to the **rejection regions**.
+
+As shown in the chart, the t-test statistic lies **well beyond the critical values**, placing it firmly within the rejection region. This visual evidence supports the statistical conclusion to **reject the null hypothesis**, confirming a statistically significant difference between the two model accuracies.
+
+
 ### 🔑 Key Findings
 
 - The two-tailed p-value (~9.7e-6) is far below the significance level (α = 0.05).

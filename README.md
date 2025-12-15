@@ -66,7 +66,8 @@ A two-sample **t-test assuming equal variances** was conducted using a significa
 
 ### 📈 Visualization of the t-Test Results
 
-![T-Distribution with Test Statistic and Rejection Regions](t-stat distribution.png)
+![T-Distribution with Test Statistic and Rejection Regions](T-stat-distribution.png)
+
 
 
 The chart above illustrates the **t-distribution** with the **test statistic** and **rejection regions** for a two-tailed t-test.

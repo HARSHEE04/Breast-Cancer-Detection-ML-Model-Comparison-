@@ -3,7 +3,7 @@
 This repository contains the project report **“Comparative Analysis of Decision Trees and Neural Networks for Breast Cancer Detection in Medical Imaging Data.”**  
 The study explores the performance of two machine learning models **Decision Trees (J48)** and **Neural Networks (Multilayer Perceptron)** for classifying medical imaging data related to breast cancer detection.
 
-📄 **[View Full Report (PDF)](docs/Detailed_Research_Report.pdf)**
+📄 **[View Full Report (PDF)](Detailed_Research_Report.pdf)**
 
 ---
 
